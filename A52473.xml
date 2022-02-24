@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Ansvver to a late scvrrilovs and scandalovs pamphlet, entituled, The Downfall of old Common councill men</title>
+            <author>Norton, John, 1606-1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52473</idno>
+            <idno type="STC">Wing N1314</idno>
+            <idno type="STC">ESTC R19210</idno>
+            <idno type="EEBO-CITATION">12603874</idno>
+            <idno type="OCLC">ocm 12603874</idno>
+            <idno type="VID">64244</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52473)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64244)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 250:E135, no 15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Ansvver to a late scvrrilovs and scandalovs pamphlet, entituled, The Downfall of old Common councill men</title>
+                  <author>Norton, John, 1606-1663.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page bears a rebus of Norton.</note>
+                  <note>Attributed to John Norton. cf. NUC-pre 1956.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bond, John, 1612-1676. --  Downfall of old common-counselman.</term>
+               <term>Great Britain --  Politics and government --  1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64244:1"/>
+            <pb facs="tcp:64244:1" rendition="simple:additions"/>
+            <p>AN ANSVVER TO A LATE SCVRRILOVS AND SCANDALOVS <hi>PAMPHLET,</hi> ENTITULED, <hi>The Downfall of old Common Councill men.</hi>
+            </p>
+            <figure>
+               <p>NOR<g ref="char:EOLhyphen"/>
+                  <figure>
+                     <figDesc>a tun</figDesc>
+                  </figure>
+               </p>
+               <figDesc>printer's device of one of the Nortons</figDesc>
+            </figure>
+            <p>LONDON, Printed in the yeare 1642.</p>
+            <pb facs="tcp:64244:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:64244:2"/>
+            <head>An Anſwer to a late ſcurrillous and ſcandalous Pamphlet, intituled, <hi>The Downfall of old Common Councill men,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He unparaleld Liberty aſſumed in Print<g ref="char:EOLhyphen"/>ing Unlicenced Pamphlets is of late growne ſo exorbitant, that many take it for granted, that it is even lawfull for them to vent by the Preſſe, whatſoever they thinke may pleaſe their owne, and other mens Phantaſies, that are <hi>ejuſdem farinae,</hi> of the like condition with them; of which ſort (among the reſt) they conceive, that nothing will be more acceptable to ſuch kind of people, then that which traduceth Governours or Govern<g ref="char:EOLhyphen"/>ment.</p>
+            <p>Of this kind, lately hath been publiſhed a moſt baſe and ſcur<g ref="char:EOLhyphen"/>rillous (I might wel have ſaid a Libellous and ſcandalous) Pam<g ref="char:EOLhyphen"/>phlet, under the Title of <hi>The Downfall of old Common Councill men.</hi> The Title page wherof, together with the Pamphlet it ſelfe, containes as many untruths as lines; the difference in Title and Pamphlet being only this, that the firſt hath all that malice can utter, bare-ly ſet downe in it; and the other is flouriſhed with ſuſtian words, and ſome ſhreds of the Latine, but more of the ly<g ref="char:EOLhyphen"/>ing tongue, in which it ſeemes the Author is beſt verſed: both of them being fitter for the draught then the Stationers ſtall.</p>
+            <p>And indeed this Anſwer to it had been better ſpared then fra<g ref="char:EOLhyphen"/>med ( a cleane whip being the proper Anſwer for him) but that perhaps, if the Pamphlet had been permitted to paſſe in ſilence, it might have been taken (by ſome of his ſtraine that made it, or by ſtrangers to the Government of this City) <hi>pro confeſſo,</hi> that all which the Pamphleter had ſaid, were true: whereas there is not
+<pb n="2" facs="tcp:64244:3"/>
+one word in it that hath any alliance with Truth.</p>
+            <p>It may be well and truly averred, that this Pamphleter is true heire to his father, that from the beginning was a lyer: and bro<g ref="char:EOLhyphen"/>ther to him that for 30. pieces of ſilver betrayed his Maſter, though they were of more value then thoſe 30. which this poore conditioned fellow received for betraying his owne ma<g ref="char:EOLhyphen"/>lice and the Cities government, being but pence at the moſt, and they too much too.</p>
+            <p>But not to ſpend more paines and paper upon him, let's take a view of this h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s good<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y piece, for to beſtow much time or la<g ref="char:EOLhyphen"/>bour to anſwer a foole in his folly, were but folly, as the Wiſe<g ref="char:EOLhyphen"/>man ſpeaks. W<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re it <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot therefore, more to vindicate the govern<g ref="char:EOLhyphen"/>ment of the City, and the credit of thoſe upon whom his foule aſperſions and ſcandals are layd by him, this labour might well have bin ſpared: yet ſeeing his impudence in averring ſuch falſi<g ref="char:EOLhyphen"/>ties is ſo great, as that perhaps ſome of his own garb, and ſtran<g ref="char:EOLhyphen"/>gers to the ſtate of the City, may be too much poſſeſſed by him, we ſhall deſcend a little lower then otherwiſe might bee thought fit.</p>
+            <p>To begin then with him, and firſt with his Title page, wher<g ref="char:EOLhyphen"/>in firſt he hath prefixed his Title, which he calls, <hi>The downfall of old Common Councill men,</hi> which (for our better conceiving what he meanes by it) he tells us, that it was their great Re<g ref="char:EOLhyphen"/>pulſe at <hi>Guild-Hall</hi> upon a Friday (I take it the 34. of January) by the Committee, who extruded the Old out of their corrup<g ref="char:EOLhyphen"/>ted Offices, and elected new in their Places. And in the next place promiſes (much and performes nothing) to ſhew their manifold corruptions and unequall Taxations, which they im<g ref="char:EOLhyphen"/>poſed chiefly on their poore Pariſhioners, and connived on the Rich, being too common an abuſe by them. Then exactly de<g ref="char:EOLhyphen"/>ſcribing, how they have oft-times robbed the poore of their due, and deteyned the Charity of other men from them, and have put it up in their owne purſes. And in the laſt place, (be<g ref="char:EOLhyphen"/>cauſe there were not untruths ſufficient before) he will ſhew the manner of their Arraignment at <hi>Guild-Hall,</hi> with the Cauſe of their downfall, and the others upriſing.</p>
+            <p>Certainly here's a grievous Charge, and I doubt not but we ſhall have it abundantly proved in the enſuing diſcourſe, if it prove not like the <hi>German Mercury,</hi> whoſe Title page con<g ref="char:EOLhyphen"/>taines more, or aſmuch as the book it ſelfe. But if you'le be a little
+<pb n="3" facs="tcp:64244:3"/>
+patient, you ſhall heare the Pamphlets charge, with a briefe anſwer, as alſo the proofes, which are ſo many, that I feare they will never be diſproved.</p>
+            <p>In the Preamble of his Pamphlet, this ſhameleſſe fellow is ſo arrogant, as to call men of good &amp; unſpotted reputation, and that have well deſer<g ref="char:EOLhyphen"/>ved of the City for their induſtry, counſell &amp; integrity, Corrupt ſtreams, that either have hindred the pure current, or at leaſt have contaminated the cleare fountaine of Juſtice, and (as if this had not been enough) the Beetle head hath beſtowed upon them the name of Beetles, (for ſo is his <hi>Scarabeus</hi> in the Latin.) So that in the very front he hath placed two of his Lyveries for them, <hi>Corruption</hi> and <hi>Ignorance.</hi>
+            </p>
+            <p>Now the Multiformity of their vices (as he is pleaſed to ſpeake) hee hath moſt Methodically contracted into three Branches;</p>
+            <list>
+               <item>1. The cauſe of their Corruptions,</item>
+               <item>2. The variety of their Corruptions.</item>
+               <item>3. The cauſe of thoſe numerous Varieties.</item>
+            </list>
+            <p n="1">I. The cauſe of the firſt he impudently aſſignes to their Ambition and Arrogancy. Now wherin their Ambition conſiſted, neither he expreſſeth, nor can it be well conceived. If labour, time, or charge (the three Con<g ref="char:EOLhyphen"/>comitants of a Common Council man) be incitements or provocations to make a man Ambitious, then I will not deny this man to bee in the right<hi>:</hi> but neither of theſe certainly can be any allurements to m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke a man ambitious (eſpecially of ſuch a place, or when he is in it to make a man corrupt) therefore we may well free them from that ſcandall. But yet arrogant they may be: and I pray why? Hee tells us, they did ty<g ref="char:EOLhyphen"/>rannically inſult over others, who if they would not ſubmiſſively ſub<g ref="char:EOLhyphen"/>ſcribe to their opinions, were immediatly involved in the Catalogue of their inveterate malice. Truly <hi>Tenterden</hi> ſteeple was the cauſe of <hi>Good<g ref="char:EOLhyphen"/>win</hi> ſands. And if this learned Latiniſt can make this Concluſion; They are malicious, therefore Arrogant, he hath a new Logique which <hi>Ramus</hi> nor <hi>Seton</hi> never heard of.</p>
+            <p n="2">II. Now becauſe (as he ſaith) the variety their of corruptions are mani<g ref="char:EOLhyphen"/>fold, nay infinite, and becauſe he will not treſpaſſe upon the readers pa<g ref="char:EOLhyphen"/>tience, he will (moſt learnedly) compendiate the multiplicity thereof, and collect them into ſome few branches of their abuſes.</p>
+            <p n="1">1. The unpardonable abuſe of the poore Pariſhioners, which cryes loud in the eares of God and man, eſpecially it being grounded upon ſpleen in aſſeſſing, and againſt law in proſecuting them.</p>
+            <p n="2">2. Their ſecond abuſe in aſſeſſing (tending to Emulation) the poore, equall with the rich, and ſometimes more, againſt Equity and Ju<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ice.</p>
+            <p n="3">
+               <pb n="4" facs="tcp:64244:4"/>
+3. Their common practize in the diſparity of their impoſitions, e<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cting moſt where they pleaſed, without any reſpect of Juſtice, even to inſulting perfection.</p>
+            <p n="4">4. Their connivence to the Rich, in excuſing them, and making the poore to pay for them, Which cryes for neceſſary and urgent Juſtice a<g ref="char:EOLhyphen"/>gainſt them; becauſe they take from thoſe that have nothing or very lit<g ref="char:EOLhyphen"/>tle, and adding to thoſe that have all, or a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> leaſt the greateſt. Nay, their offence is ſo vicious in this regard, that he bluſheth, or at leaſt is aſha<g ref="char:EOLhyphen"/>med to adde any further a conſtructive addition to their contriving Malignity.</p>
+            <p n="5">5. The laſt. In ſaving themſelues from all payments whatſoever, and whoſoever poore or rich payd, they themſelves payd nothing: Yea, ſome<g ref="char:EOLhyphen"/>times they would deteyne money too, and put it into their purſes, being content pocket up ſuch wrongs. So that the meaneſt of the Pariſh did yearely pay more then the chiefeſt of them.</p>
+            <p n="3">3. In the laſt place you ſhall have him tell you, what was the Cauſe of thoſe numerous varieties of corruptions.</p>
+            <p n="1">1. The generall and prime cauſe was their too licentious liberty in committing them without contradiction.</p>
+            <p n="2">2. The ſecond was the non-annuall election of them: So that with<g ref="char:EOLhyphen"/>in theſe faire branches of his, are conteyned the Charge. The particulars whereof are crying ſins, Spleen, Injuſtice, evill Conſcience, Partiality and Connivence, Cruelty to the poore, Malignitie, Robbing the poore, and favouring themſelves, even to the ſaving of all charges and taxes.</p>
+            <p>Could either Impudence or Malice it ſelfe have ſaid more and proved leſſe, then this ſcurrilous Pamphleter hath? Hath he all this while al<g ref="char:EOLhyphen"/>ledged any particular ptooſe, or ſo much as given any one inſtance to prove that which he hath thus impudent-ly affirmed? Truly, No. And why? Becauſe <hi>Doloſus verſatur in generalibus.</hi> He that intends to raiſe ſlanders, and caſt aſperſions upon them that deſerve them not, hath no other way to evade, then by traducing in generals: If hee had meant to have dealt fairely and candidly, he would at leaſt have inſtanced one ex<g ref="char:EOLhyphen"/>ample, to prove every ſeverall imputation. But this he knew he could not doe.</p>
+            <p>Let us come a little neerer to him. I would faine know of him, what Aſſeſſments there are, wherein any Common Councill man hath more power then many other in each Ward that are joyned with them. Sure I am, that neither in Subſidies not Fifteenes he hath not any. And for the Aſſeſſments to the poore, he that hath leſſe Latine then this Pamphle<g ref="char:EOLhyphen"/>ter would ſeeme to have, can tell, that the lawes of the Land have ap<g ref="char:EOLhyphen"/>pointed
+<pb n="5" facs="tcp:64244:4"/>
+others, and not Common Councill men, to aſſeſſe them. As for exempting themſelves from paying that which they are aſſeſſed at, I be<g ref="char:EOLhyphen"/>leeve he would be as farre ſhort in proving it, if he were put to it, as he would be to prove himſelfe an honeſt man. For it may be boldly affir<g ref="char:EOLhyphen"/>med, and as eaſily proved by all Records of the City, publike and pri<g ref="char:EOLhyphen"/>vate, that all Common Councill men ever payd their full proportion to all taxes and levyes whatſoever, Nay, more then many better men of eſtate then themſelves; and why? <hi>eo nomine,</hi> becauſe they were Common Councell men, as if ſome revenues were annexed to their places: for him therefore to averre, that whoſoever payd, Common Councill men payd nothing, what can be more impudent? What Cha<g ref="char:EOLhyphen"/>rity they have received, <hi>quatenus</hi> Common Councill men from others, and put it into their owne purſes, he might have inſtanced, but it may well be affirmed, that he knowes of none; If he doe, hee ſhould have nominated him, that he might have beene branded <hi>nigro Carbone:</hi> and if there be any ſuch, he did it not in relation to the Common Councill, but as a private man, upon private truſt, and therefore not to be impu<g ref="char:EOLhyphen"/>ted to his Office.</p>
+            <p>Will you looke backe upon his learned and juditious aſſignment of the Cauſes of the numerous varieties of corruptions? They are two. 1. Their too licentious committing them without contradiction. This indeed is a true conjecture, for if they have beene ſo corrupt as he would make them, and they have been ſo farre from correction, as not to be contradicted, Certainly if they were bad one yeare, they would be much worſe the next, for <hi>vitia tranſmittit ad poſteros, qui praeſentibus culpis ignoſcit.</hi> But they having not ſo much as any tentations to cor<g ref="char:EOLhyphen"/>ruption incident to their places, nor having committed the leaſt of<g ref="char:EOLhyphen"/>fence which this Pamphleter impudently upon his owne bare aſſerti<g ref="char:EOLhyphen"/>on layes to their charge, for what ſhould they bee contra<g ref="char:EOLhyphen"/>dicted?</p>
+            <p>The ſecond cauſe is, their Non-annuall Election of them, he would have ſaid of others in their roomes. To this they may be anſwered; That if they were faulty in any of the Crimes objected by him, there were great reaſon for it, but if they bee cleare, then none ſo fit to ſerve the Citie as they, which are experienced and verſed in the affaires of it.</p>
+            <p>To come briefly to his Cloſe, which is; That theſe precedent par<g ref="char:EOLhyphen"/>ticulars being ma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urely and ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>riouſly conſidered and revolved by the City, All the old Common Councill men were arraigned by the
+<pb n="6" facs="tcp:64244:5"/>
+Citizens, and a ſelect Committee appointed to regulate theſe abuſes. And being accuſed, they were found ſo inexcuſable delinquent and pec<g ref="char:EOLhyphen"/>cant, that they were incontinently excluded from their corrupt Offices, and new Common Councill men elected in their places.</p>
+            <p>To this I ſay, That his Concluſion comes not ſhort of his premiſſes. It is a ſhort one, but ſtuffed with as many untruths as lines, as the reſt of his Pamphlet. As firſt, There was no Arraignment of any; and I doubt of the power of that Committee (he ſpeakes of) to arraigne men; neither are any of the Crimes he ſcandalouſly alledgeth Capitall, and ſo out of compaſſe of arraignment. Secondly, by his owne words, they were but to regulate abuſes; nor doe I conceive they had ſo much power: They were (in this caſe) but to examine and report the va<g ref="char:EOLhyphen"/>lidity of Elections, to the Common Councill, not to examine and re<g ref="char:EOLhyphen"/>gulate abuſes, of any Old Common Councill men. Thirdly, if all the old were delinquent and peccant, how comes it that ſome continue in their places ſtill, and are upon that Committee which he mentions? Fourth<g ref="char:EOLhyphen"/>ly, There were none accuſed or found delinquent, nor excluded from their corrupt Offices, nor new choſen in their places: where by the way one learned paſſage of the Pamphleter is to be obſerved (exclu<g ref="char:EOLhyphen"/>ded from their corrupt Offices) whereby it appeares that it was not the perſons only, but the Offices which were corrupt too, and then the New had little cauſe to thanke them for putting them into them.</p>
+            <p>To conclude all (being ſorry I have troubled you and my ſelfe ſo much already) I ſhall ſay no more, but that it is much to be feared, that this fellow, either out of need, diſtemper of braine, or a naturall incli<g ref="char:EOLhyphen"/>nation to rayle againſt Authoritie, will bee ſo farre tranſported e're leng, that he will not reſt here, but doe ſome further Act, for which he will be exalted further upward, then any Common Councill man hath yet fallen downward. And in the meane time it is to be hoped, that the Juſtice of the State will take ſome order with him, (not to his liking) for that which he hath moſt ſcandalouſly done in this.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
